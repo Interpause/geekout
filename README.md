@@ -1,3 +1,5 @@
+EDIT: Before I archive this, I wanna thank Govtech and Geekout. Workshop was great, and inspired me for my next project. Heck, I ended up using next.js and vercel again.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
